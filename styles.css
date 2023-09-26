@@ -20,9 +20,13 @@ h2{
 	background-color:#f8f8f8;
 	padding:10px;
 }
+.title{
+	text-align:left;
+}
 .author{
 	color:#777777;
 	text-align:left;
+	margin-top:-15px;
 	
 }
 button{
@@ -31,4 +35,5 @@ button{
 	color:white;
 	border:none;
 	border-radius:5px;
+	margin-top:-25px;
 }
